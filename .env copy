@@ -1,0 +1,4 @@
+DB_USERNAME=root
+DB_PASSWORD=root
+DB_NAME=antar_jemput
+DB_HOST=127.0.0.1
